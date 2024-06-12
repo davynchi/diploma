@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {1}{Проблема}{3}{0}{1}
+\beamer@sectionintoc {2}{Обзор литературы}{16}{0}{2}
+\beamer@sectionintoc {3}{Задачи}{19}{0}{3}
+\beamer@sectionintoc {4}{Начальные эксперименты}{23}{0}{4}
+\beamer@sectionintoc {5}{Теория}{49}{0}{5}
+\beamer@sectionintoc {6}{Итоговые эксперименты}{77}{0}{6}
+\beamer@sectionintoc {7}{Заключение}{108}{0}{7}
+\beamer@sectionintoc {8}{Источники}{112}{0}{8}
